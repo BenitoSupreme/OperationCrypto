@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'secret'
 
 def process_files_in_directory(directory_path, analyze):
 
