@@ -1,0 +1,5 @@
+# for sellenium Wai Zin also ran it on a VM. Following commands in the command line. 
+
+python3 -m venv ./
+source bin/activate
+pip3 install pandas selenium jupyterlab webdriver-manager
